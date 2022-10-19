@@ -42,3 +42,5 @@ Semana 7:
 19/09/2022: Sala e computo: Finalizacion con el trabajar con la base de la encuesta
 
 21/09/2022: Sala de computo: Presentacion de datos
+
+Semana 8:
